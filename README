@@ -1,0 +1,14 @@
+=============================================================================
+Project:   TemplateTest
+Copyright: ©2011 My Company, Inc.
+=============================================================================
+
+This is an example of three different types of collections that I think should
+be able to produce more or less the same result. However they do not. The first
+list is a standard old school type list, which works as expected. The second list
+works but does not bind to the content properly. And the third list creates an
+error at 'compile time' that renders the app unusable.
+
+Thoughts ?
+
+.joe
